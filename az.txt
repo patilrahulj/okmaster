@@ -1,0 +1,10 @@
+types of environment
+
+fully observable vs partially 
+single vs multi agents
+competitive vs cooperative 
+deterministic vs stochastic
+episodicvs sequential 
+static vs dynamic
+discreate vs continuous 
+known vs unkown 
